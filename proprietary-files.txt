@@ -79,11 +79,8 @@ vendor/lib/libbtnv.so
 
 # Camera
 bin/mm-qcamera-daemon
-lib/hw/camera.msm8952.so
 lib/libcamerabgproc-jni.so
 lib/libcamerabgprocservice.so
-lib/libmm-qcamera.so
-lib/libmmcamera_interface.so
 vendor/lib/lib-imscamera.so
 vendor/lib/libcamerabgproc-jni.so
 vendor/lib/libimscamera_jni.so
@@ -801,10 +798,8 @@ vendor/lib/hw/keystore.msm8952.so
 
 # Media
 lib/libmm-omxcore.so
-lib/libmmjpeg_interface.so
 lib/libOmxSwVencHevc.so
 lib/libOmxVpp.so
-lib/libqomx_core.so
 lib/libslowmotionconverter.so
 vendor/lib/lib-dplmedia.so
 vendor/lib/libHevcSwEncoder.so
